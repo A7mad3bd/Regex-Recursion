@@ -28,7 +28,8 @@ required extention are jpg, jpeg and png.
 */
 
 function imagesSearcher(text){
-  
+   
+    
 }
 
 
